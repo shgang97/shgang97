@@ -1,5 +1,5 @@
 <h1 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+enjoy+coding!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+enjoy+coding!&center=true&size=30&color=00ff00">
 </h1>
 
 </br>
