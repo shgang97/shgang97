@@ -11,7 +11,8 @@ I'm a self-taught passionate Java developer from China🇨🇳
 - 🧑‍🎓 Graduating from master's degree
 - ⚽️ Watching football
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<a>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 <code><img src="https://avatars.githubusercontent.com/u/317776?s=20&v=5"/></code>
 
@@ -20,7 +21,7 @@ I'm a self-taught passionate Java developer from China🇨🇳
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>    
-
+</a>
 | <a><img src="https://github-readme-stats.vercel.app/api?username=shgang97&show_icons=true&include_all_commits=true&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang97's Github Stats"/></a> | <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgang97&layout=compact&theme=buefy&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang's Most Used Languages"/></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
