@@ -1,23 +1,37 @@
-### Hi there 👋
+<h1 align="center">  
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+enjoy+coding!&center=true&size=30">
+</h1>
 
-<!--
-**shgang97/shgang97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+I'm a self-taught passionate Java developer from China🇨🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Abaout me**
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text"></div>
-<div align="center"> <img src="https://metrics.lecoq.io/shgang97?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shgang97&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgang97&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=shgang97" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=shgang97&theme=xcode" /> </div>
+- 🧑‍🎓 Graduating from master's degree
+- ⚽️ Watching football
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+<code><img src="https://avatars.githubusercontent.com/u/317776?s=20&v=5"/></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>    
+
+| <a><img src="https://github-readme-stats.vercel.app/api?username=shgang97&show_icons=true&include_all_commits=true&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang97's Github Stats"/></a> | <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgang97&layout=compact&theme=buefy&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang's Most Used Languages"/></a> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+#### Top Repositories
+
+<a href="https://github.com/shgang97/enjoying-source-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=enjoying-source-code&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
+
+<a href="https://github.com/shgang97/learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=learning&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
+
+#### Contribution Graph
+
+<code><img src="https://activity-graph.herokuapp.com/graph?username=shgang97&bg_color=000000&color=00ff00&line=ffff33&point=ffffff" /></code>
