@@ -28,8 +28,8 @@ I'm a self-taught passionate Java developer from China🇨🇳
 <a href="https://github.com/shgang97/enjoying-source-code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=enjoying-source-code&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
 
-<a href="https://github.com/shgang97/learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=learning&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
+<a href="https://github.com/shgang97/data-structures-and-algorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=data-structures-and-algorithms&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
 
 #### Contribution Graph
 
