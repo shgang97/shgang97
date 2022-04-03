@@ -31,7 +31,9 @@ I'm a self-taught passionate Java developer from China🇨🇳
 <a href="https://github.com/shgang97/data-structures-and-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=data-structures-and-algorithms&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
 
-#### Contribution Graph
+#### Contribution Graph of the Last 31 Days
 
 <code><img src="https://activity-graph.herokuapp.com/graph?username=shgang97&bg_color=000000&color=00ff00&line=ffff33&point=ffffff" /></code>
+
+
 
