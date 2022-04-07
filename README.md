@@ -19,14 +19,15 @@ I'm a self-taught passionate Java developer from China🇨🇳
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </div>
-
-| <a><img src="https://github-readme-stats.vercel.app/api?username=shgang97&show_icons=true&include_all_commits=true&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang97's Github Stats"/></a> | <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgang97&layout=compact&theme=buefy&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang's Most Used Languages"/></a> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<a><img src="https://github-readme-stats.vercel.app/api?username=shgang97&show_icons=true&include_all_commits=true&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang97's Github Stats"/></a><a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgang97&layout=compact&theme=buefy&hide_border=true&title_color=00ff00&icon_color=ffff33&text_color=ffffff&bg_color=000000" alt="Shgang's Most Used Languages"/></a>
 
 #### Top Repositories
 
-<a href="https://github.com/shgang97/enjoying-source-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=enjoying-source-code&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
+<a href="https://github.com/shgang97/nowcoder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=nowcoder&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
+
+<!--<a href="https://github.com/shgang97/enjoying-source-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=enjoying-source-code&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>-->
 
 <a href="https://github.com/shgang97/data-structures-and-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=data-structures-and-algorithms&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
