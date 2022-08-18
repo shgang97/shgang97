@@ -1,5 +1,5 @@
 <h1 align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+enjoy+coding!&center=true&size=30&color=00ff00">
+    <img src="https://readme-typing-svg.herokuapp.com?background=000000&lines=I+enjoy+coding!&center=true&size=30&color=00ff00">
 </h1>
 
 </br>
@@ -35,10 +35,9 @@ I'm a self-taught passionate Java developer from China🇨🇳
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=enjoying-source-code&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>-->
 
 <a href="https://github.com/shgang97/cloud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=cloud&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shgang97&repo=Data_Structures_and_Algorithm_Analysis_in_Go&bg_color=000000&title_color=00ff00&icon_color=ffff33&text_color=ffffff" /></a>
 
 #### Contribution Graph of the Last 31 Days
 
 <code><img src="https://activity-graph.herokuapp.com/graph?username=shgang97&bg_color=000000&color=00ff00&line=ffff33&point=ffffff" /></code>
-
 
